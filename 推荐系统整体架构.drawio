@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T06:44:32.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="H6MLSYduyMWXmjnXUKRg" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-14T06:47:42.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="84hNACIy4EKA4_pik25j" version="20.4.1" type="github" pages="2">
   <diagram name="第 1 页" id="ZpcZpx1F9Ch346L9i--6">
     <mxGraphModel dx="2404" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="585uHJBaxJgK5k8fGqFR" name="第 2 页">
-    <mxGraphModel dx="1351" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,7 +245,7 @@
         <mxCell id="zGuVCvEwYSPH-hrvQ5Bi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGuVCvEwYSPH-hrvQ5Bi-4" target="zGuVCvEwYSPH-hrvQ5Bi-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zGuVCvEwYSPH-hrvQ5Bi-4" value="重排层&lt;br&gt;&lt;br&gt;多样性&lt;br&gt;实时性&lt;br&gt;流行度&lt;br&gt;新鲜度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zGuVCvEwYSPH-hrvQ5Bi-4" value="重排层&lt;br&gt;&lt;br&gt;打散&lt;br&gt;调权&lt;br&gt;强插" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="130" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="zGuVCvEwYSPH-hrvQ5Bi-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zGuVCvEwYSPH-hrvQ5Bi-5" target="zGuVCvEwYSPH-hrvQ5Bi-4">
@@ -275,6 +275,15 @@
         </mxCell>
         <mxCell id="zGuVCvEwYSPH-hrvQ5Bi-15" value="推荐物品&lt;br&gt;列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="160" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zGuVCvEwYSPH-hrvQ5Bi-21" value="用户信息（User）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zGuVCvEwYSPH-hrvQ5Bi-22" value="物品信息（Item）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="10" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zGuVCvEwYSPH-hrvQ5Bi-23" value="场景信息（Context）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="10" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
