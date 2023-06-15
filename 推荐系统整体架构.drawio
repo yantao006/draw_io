@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T13:16:33.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9_u-sY5FMA680g4nThl4" version="20.4.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-15T13:17:14.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1wYCmm76WFnAKNIrJ-k2" version="20.4.1" type="github" pages="4">
   <diagram name="第 1 页" id="ZpcZpx1F9Ch346L9i--6">
     <mxGraphModel dx="1773" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -742,10 +742,10 @@
         <mxCell id="LLZboaLoQgRlLigkZ181-9" value="模型库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="536" y="540" width="72" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LLZboaLoQgRlLigkZ181-11" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LLZboaLoQgRlLigkZ181-11" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="201" y="680" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LLZboaLoQgRlLigkZ181-12" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LLZboaLoQgRlLigkZ181-12" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="339" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LLZboaLoQgRlLigkZ181-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
