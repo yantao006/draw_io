@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T11:24:07.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="XLTWjEeqtHqVlH3OxaXJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T12:43:30.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="x9iqZ_bG2Bhx5LLlcAYI" version="21.6.6" type="github">
   <diagram name="第 1 页" id="PQbubEj_4KLe9oqrwpNI">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LfMepDD0R_to_-wLiITT-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;DictQueueStrategy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfMepDD0R_to_-wLiITT-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;request预处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="707" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfMepDD0R_to_-wLiITT-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;请求协议&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="707" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfMepDD0R_to_-wLiITT-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;多路召回&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="707" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfMepDD0R_to_-wLiITT-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;多路融合&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="707" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfMepDD0R_to_-wLiITT-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RedisQueueStrategy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="677" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfMepDD0R_to_-wLiITT-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;RedisQueueStrategy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
