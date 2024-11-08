@@ -389,6 +389,15 @@
         <mxCell id="lHcvbdQ-BzwgiVgifmol-117" value="新用户tag2" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="268.25" y="1290" width="60" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="lHcvbdQ-BzwgiVgifmol-118" value="召回quota" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fbba74;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="928" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="lHcvbdQ-BzwgiVgifmol-119" value="召回过滤" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fbba74;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="967.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="lHcvbdQ-BzwgiVgifmol-120" value="拉链集合" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d29bee;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1007" width="60" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
