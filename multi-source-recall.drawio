@@ -641,7 +641,7 @@
           <mxGeometry x="420" y="535.5" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vp0u7hqk6ZK5QdRhW-UI-15" value="term集合" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f9ada9;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="300.5" y="615.5" width="60" height="25" as="geometry" />
+          <mxGeometry x="290" y="530" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Vp0u7hqk6ZK5QdRhW-UI-16" value="拉链索引" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="208" y="736.5" width="60" height="25" as="geometry" />
@@ -706,8 +706,8 @@
         <mxCell id="Vp0u7hqk6ZK5QdRhW-UI-37" value="拉链索引" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="368" y="736.5" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Vp0u7hqk6ZK5QdRhW-UI-41" value="过滤、合并" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="282" y="681" width="72" height="25" as="geometry" />
+        <mxCell id="Vp0u7hqk6ZK5QdRhW-UI-41" value="过滤、排序、合并" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="264" y="572" width="108" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
