@@ -539,6 +539,15 @@
         <mxCell id="3koWJDZlFrcx9eHHm9mq-48" value="&lt;font&gt;视频画风&lt;/font&gt;&lt;div&gt;&lt;span&gt;pb协议&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="3koWJDZlFrcx9eHHm9mq-45">
           <mxGeometry x="10" y="10" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3koWJDZlFrcx9eHHm9mq-50" value="&lt;font style=&quot;font-size: 13px; font-weight: normal;&quot;&gt;统一调度架构升级&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3koWJDZlFrcx9eHHm9mq-51" value="&lt;font style=&quot;font-size: 13px; font-weight: normal;&quot;&gt;统一业务算子服务&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px; font-weight: normal;&quot;&gt;（CPU）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3koWJDZlFrcx9eHHm9mq-52" value="&lt;font style=&quot;font-size: 13px; font-weight: normal;&quot;&gt;统一推理引擎架构&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px; font-weight: normal;&quot;&gt;（GPU）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
