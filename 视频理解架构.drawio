@@ -435,7 +435,7 @@
           <mxGeometry x="553" y="240" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NDeSTddI0nPTPxr4wRPL-1" value="共计60+个算子服务" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="130" y="740" width="490" height="63" as="geometry" />
+          <mxGeometry x="140" y="740" width="490" height="140" as="geometry" />
         </mxCell>
         <mxCell id="NDeSTddI0nPTPxr4wRPL-3" value="kafka&lt;div&gt;output&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;" vertex="1" parent="1">
           <mxGeometry x="670" y="388" width="80" height="40" as="geometry" />
@@ -494,7 +494,7 @@
         <mxCell id="NDeSTddI0nPTPxr4wRPL-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="236.5" y="490" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="NDeSTddI0nPTPxr4wRPL-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="NDeSTddI0nPTPxr4wRPL-40" value="c++" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="190" y="557" width="36" height="36" as="geometry" />
         </mxCell>
         <mxCell id="NDeSTddI0nPTPxr4wRPL-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -504,10 +504,10 @@
           <mxGeometry x="378" y="521" width="36" height="36" as="geometry" />
         </mxCell>
         <mxCell id="NDeSTddI0nPTPxr4wRPL-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="433" y="557" width="36" height="36" as="geometry" />
+          <mxGeometry x="463" y="557" width="36" height="36" as="geometry" />
         </mxCell>
         <mxCell id="NDeSTddI0nPTPxr4wRPL-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="530.5" y="530" width="36" height="36" as="geometry" />
+          <mxGeometry x="530.5" y="490" width="36" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
