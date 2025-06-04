@@ -294,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jAN3qqM52o4JLzN94g6f" name="第 3 页">
-    <mxGraphModel dx="946" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,6 +428,30 @@
         </mxCell>
         <mxCell id="pO8Kr1lP5JadOwvgzXTj-55" value="&lt;font&gt;召回请求&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="395" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7NaqlZsyF5N1WMcT4bDR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7NaqlZsyF5N1WMcT4bDR-1" target="7NaqlZsyF5N1WMcT4bDR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NaqlZsyF5N1WMcT4bDR-1" value="多路召回" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="890" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7NaqlZsyF5N1WMcT4bDR-2" value="检索取交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="960" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7NaqlZsyF5N1WMcT4bDR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7NaqlZsyF5N1WMcT4bDR-3" target="7NaqlZsyF5N1WMcT4bDR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NaqlZsyF5N1WMcT4bDR-3" value="检索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="550" y="960" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7NaqlZsyF5N1WMcT4bDR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7NaqlZsyF5N1WMcT4bDR-6" target="7NaqlZsyF5N1WMcT4bDR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NaqlZsyF5N1WMcT4bDR-6" value="&lt;font&gt;全库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="830" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7NaqlZsyF5N1WMcT4bDR-8" value="由于多路召回阶段无法感知检索过滤条件，产生无效召回，交集率低，取交后被大量过滤" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.08;position2=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="840" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
