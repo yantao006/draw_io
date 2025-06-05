@@ -1672,7 +1672,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Co1_ZHrRMW9Ly9URK4tx" name="第 12 页">
-    <mxGraphModel dx="946" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1685,8 +1685,8 @@
         <mxCell id="r4Nqb2RIEmeny3PvD8zd-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;商业化调度引擎&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="332.67" y="50" width="134.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zfGK_2TYCVir5sbNtb2E-1" value="召回模型训练&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;dashed=1;strokeWidth=2;strokeColor=#9673a6;verticalAlign=bottom;align=right;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="401" y="433" width="320" height="200" as="geometry" />
+        <mxCell id="zfGK_2TYCVir5sbNtb2E-1" value="召回模型训练&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;dashed=1;strokeWidth=2;strokeColor=#9673a6;verticalAlign=top;align=right;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="401" y="433" width="320" height="207" as="geometry" />
         </mxCell>
         <mxCell id="zfGK_2TYCVir5sbNtb2E-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zfGK_2TYCVir5sbNtb2E-3" target="zfGK_2TYCVir5sbNtb2E-9">
           <mxGeometry relative="1" as="geometry" />
@@ -1743,6 +1743,30 @@
         </mxCell>
         <mxCell id="zfGK_2TYCVir5sbNtb2E-19" value="规则倒排建库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="140" y="595" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zfGK_2TYCVir5sbNtb2E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zfGK_2TYCVir5sbNtb2E-20" target="zfGK_2TYCVir5sbNtb2E-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfGK_2TYCVir5sbNtb2E-20" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;vpilot&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;模型训练&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302.99" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zfGK_2TYCVir5sbNtb2E-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zfGK_2TYCVir5sbNtb2E-21" target="zfGK_2TYCVir5sbNtb2E-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfGK_2TYCVir5sbNtb2E-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zfGK_2TYCVir5sbNtb2E-21" target="zfGK_2TYCVir5sbNtb2E-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfGK_2TYCVir5sbNtb2E-21" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;模型配送&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;一键部署平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302.99" y="633" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zfGK_2TYCVir5sbNtb2E-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.446;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zfGK_2TYCVir5sbNtb2E-14" target="qZTJe3wO5UWSq2l0WYTC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfGK_2TYCVir5sbNtb2E-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zfGK_2TYCVir5sbNtb2E-25" target="zfGK_2TYCVir5sbNtb2E-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zfGK_2TYCVir5sbNtb2E-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;vpilot&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;双塔模型&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629.26" y="585" width="74.99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
