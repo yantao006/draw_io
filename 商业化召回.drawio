@@ -447,7 +447,7 @@
         <mxCell id="7NaqlZsyF5N1WMcT4bDR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7NaqlZsyF5N1WMcT4bDR-6" target="7NaqlZsyF5N1WMcT4bDR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7NaqlZsyF5N1WMcT4bDR-6" value="&lt;font&gt;全库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="7NaqlZsyF5N1WMcT4bDR-6" value="&lt;font&gt;广告库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="830" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7NaqlZsyF5N1WMcT4bDR-8" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;由于多路召回阶段无法感知检索过滤条件，产生无效召回，交集率低，取交后被大量过滤&lt;/font&gt;&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.08;position2=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
