@@ -1717,10 +1717,10 @@
           <mxGeometry x="1003.51" y="1920" width="74.99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JgJynOKQH-8mItbLa11A-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;RTA服务&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1188.26" y="1910" width="74.99" height="40" as="geometry" />
+          <mxGeometry x="1440" y="1910" width="74.99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JgJynOKQH-8mItbLa11A-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;流控服务&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1188.26" y="1970" width="74.99" height="40" as="geometry" />
+          <mxGeometry x="1440" y="1970" width="74.99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JgJynOKQH-8mItbLa11A-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JgJynOKQH-8mItbLa11A-9" target="xCzoatyQEdkbPMRHS59d-72">
           <mxGeometry relative="1" as="geometry" />
